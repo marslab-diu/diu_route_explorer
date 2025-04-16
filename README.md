@@ -21,7 +21,7 @@ DIU Route Explorer is a comprehensive mobile application designed to streamline 
 
 ## Screenshots
 
-*[Coming soon]*
+![image](https://github.com/user-attachments/assets/d91ad394-7a94-4017-910a-45d06de04b5e)
 
 ## Installation
 
