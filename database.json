@@ -1,0 +1,792 @@
+[
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "Dhanmondi <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "Dhanmondi <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "Dhanmondi <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "2:30 PM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "DSC <> Dhanmondi",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "DSC <> Dhanmondi",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "DSC <> Dhanmondi",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R1",
+    "Schedule": "Regular",
+    "Route Name": "DSC <> Dhanmondi",
+    "Trip Direction": "From DSC",
+    "Time": "8:10 PM",
+    "Stops": "Dhanmondi - Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing, Rupnagar, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "2:15 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R2",
+    "Schedule": "Regular",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center<> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "8:10 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R3",
+    "Schedule": "Regular",
+    "Route Name": "Tongi College gate <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R3",
+    "Schedule": "Regular",
+    "Route Name": "Tongi College gate <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R3",
+    "Schedule": "Regular",
+    "Route Name": "Tongi College gate <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "2:15 PM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R3",
+    "Schedule": "Regular",
+    "Route Name": "Tongi College gate <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R3",
+    "Schedule": "Regular",
+    "Route Name": "Tongi College gate <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R3",
+    "Schedule": "Regular",
+    "Route Name": "Tongi College gate <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R4",
+    "Schedule": "Regular",
+    "Route Name": "ECB Chattor <> Mirpur <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "ECB Chattor, Kalshi More, Mirpur 12, Mirpur 10, Mirpur 02, Mirpur 01 Sony Cinema Hall, Commerce College, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R4",
+    "Schedule": "Regular",
+    "Route Name": "ECB Chattor <> Mirpur <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "ECB Chattor, Kalshi More, Mirpur 12, Mirpur 10, Mirpur 02, Mirpur 01 Sony Cinema Hall, Commerce College, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R4",
+    "Schedule": "Regular",
+    "Route Name": "ECB Chattor <> Mirpur <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "ECB Chattor, Kalshi More, Mirpur 12, Mirpur 10, Mirpur 02, Mirpur 01 Sony Cinema Hall, Commerce College, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R4",
+    "Schedule": "Regular",
+    "Route Name": "ECB Chattor <> Mirpur <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "ECB Chattor, Kalshi More, Mirpur 12, Mirpur 10, Mirpur 02, Mirpur 01 Sony Cinema Hall, Commerce College, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R4",
+    "Schedule": "Regular",
+    "Route Name": "ECB Chattor <> Mirpur <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "ECB Chattor, Kalshi More, Mirpur 12, Mirpur 10, Mirpur 02, Mirpur 01 Sony Cinema Hall, Commerce College, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R5",
+    "Schedule": "Regular",
+    "Route Name": "Konabari Pukur Par <> Zirabo <> Ashulia Bazar <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Konabari Pukur Par, Norshingpur, Ghosbag, Zirabo, Ashulia Bazar, Paragram, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R5",
+    "Schedule": "Regular",
+    "Route Name": "Konabari Pukur Par <> Zirabo <> Ashulia Bazar <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Konabari Pukur Par, Norshingpur, Ghosbag, Zirabo, Ashulia Bazar, Paragram, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R6",
+    "Schedule": "Regular",
+    "Route Name": "Baipail <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Baipail, Polli Biddut, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R6",
+    "Schedule": "Regular",
+    "Route Name": "Baipail <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Baipail, Polli Biddut, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R6",
+    "Schedule": "Regular",
+    "Route Name": "Baipail <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Baipail, Polli Biddut, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R6",
+    "Schedule": "Regular",
+    "Route Name": "Baipail <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Baipail, Polli Biddut, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R6",
+    "Schedule": "Regular",
+    "Route Name": "Baipail <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Baipail, Polli Biddut, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R7",
+    "Schedule": "Regular",
+    "Route Name": "Dhamrai Bus Stand <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Dhamrai Bus Stand, Kohinur Market, Gonosastho, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R7",
+    "Schedule": "Regular",
+    "Route Name": "Dhamrai Bus Stand <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Dhamrai Bus Stand, Kohinur Market, Gonosastho, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R7",
+    "Schedule": "Regular",
+    "Route Name": "Dhamrai Bus Stand <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Dhamrai Bus Stand, Kohinur Market, Gonosastho, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R7",
+    "Schedule": "Regular",
+    "Route Name": "Dhamrai Bus Stand <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Dhamrai Bus Stand, Kohinur Market, Gonosastho, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R7",
+    "Schedule": "Regular",
+    "Route Name": "Dhamrai Bus Stand <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Dhamrai Bus Stand, Kohinur Market, Gonosastho, Nabinagar, Bismail, Prantik, JU, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R8",
+    "Schedule": "Regular",
+    "Route Name": "Savar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Savar Bus Stand, Radio Colony, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R8",
+    "Schedule": "Regular",
+    "Route Name": "Savar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Savar Bus Stand, Radio Colony, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R8",
+    "Schedule": "Regular",
+    "Route Name": "Savar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Savar Bus Stand, Radio Colony, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R8",
+    "Schedule": "Regular",
+    "Route Name": "Savar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Savar Bus Stand, Radio Colony, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R8",
+    "Schedule": "Regular",
+    "Route Name": "Savar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Savar Bus Stand, Radio Colony, C&B, Kolma, Charabag, Kumkumari, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R9",
+    "Schedule": "Regular",
+    "Route Name": "Narayanganj Chasara >  Dhanmondi > DSC",
+    "Trip Direction": "To DSC",
+    "Time": "6:20 AM",
+    "Stops": "Narayanganj Chasara, Sign board, Sonir Akhra, Saydabad Bus Stand, Gulistan, Chankharpul, Nilkhet, New Market, Kolabagan, Dhanmondi Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Konabari Bus Stop, Eastern Housing Rup Nogor, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R9",
+    "Schedule": "Regular",
+    "Route Name": "Narayanganj Chasara >  Dhanmondi > DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R10",
+    "Schedule": "Regular",
+    "Route Name": "Green Model Town <> Mugdha Model Thana <> Malibag <> Rampura <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "6:20 AM",
+    "Stops": "Green Model Town, Bashabo, Malibagh Railgate South Bus Stop, Rampura Bazaar Bus Stop, BTV Center, Aftabnagar, Badda Suvastu Tower, Jamuna Future Park, Kuril Bisso Road, Khilkhet, Uttara Rajlokkhi, House building, Diyabari Bridge, Beribadh, Birulia, Khagan, Akran Bazaar Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R10",
+    "Schedule": "Regular",
+    "Route Name": "Green Model Town <> Mugdha Model Thana <> Malibag <> Rampura <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Green Model Town, Bashabo, Malibagh Railgate South Bus Stop, Rampura Bazaar Bus Stop, BTV Center, Aftabnagar, Badda Suvastu Tower, Jamuna Future Park, Kuril Bisso Road, Khilkhet, Uttara Rajlokkhi, House building, Diyabari Bridge, Beribadh, Birulia, Khagan, Akran Bazaar Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "To DSC",
+    "Time": "8:30 AM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "To DSC",
+    "Time": "12:00 PM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "From DSC",
+    "Time": "11:00 AM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "From DSC",
+    "Time": "1:30 PM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R11",
+    "Schedule": "Shuttle",
+    "Route Name": "Tongi station route <> Daffodil Smart City",
+    "Trip Direction": "From DSC",
+    "Time": "6:10 PM",
+    "Stops": "Tongi station route, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R12",
+    "Schedule": "Shuttle",
+    "Route Name": "Mirpur-1, Sony Cinema Hall <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Sony Cinema Hall, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R12",
+    "Schedule": "Shuttle",
+    "Route Name": "Mirpur-1, Sony Cinema Hall <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "8:30 AM",
+    "Stops": "Sony Cinema Hall, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R12",
+    "Schedule": "Shuttle",
+    "Route Name": "Mirpur-1, Sony Cinema Hall <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Sony Cinema Hall, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R12",
+    "Schedule": "Shuttle",
+    "Route Name": "Mirpur-1, Sony Cinema Hall <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "12:00 PM",
+    "Stops": "Sony Cinema Hall, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R12",
+    "Schedule": "Shuttle",
+    "Route Name": "Mirpur-1, Sony Cinema Hall <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "11:00 AM",
+    "Stops": "Sony Cinema Hall, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R12",
+    "Schedule": "Shuttle",
+    "Route Name": "Mirpur-1, Sony Cinema Hall <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Sony Cinema Hall, Gudaraghat, Beribadh, Estern Housing, Birulia, Akran, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R13",
+    "Schedule": "Shuttle",
+    "Route Name": "Uttara Moylar Mor <> Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:00 AM",
+    "Stops": "Uttara Moylar Mor, Uttara Metro rail Center, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R13",
+    "Schedule": "Shuttle",
+    "Route Name": "Uttara Moylar Mor <> Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "8:30 AM",
+    "Stops": "Uttara Moylar Mor, Uttara Metro rail Center, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R13",
+    "Schedule": "Shuttle",
+    "Route Name": "Uttara Moylar Mor <> Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "10:00 AM",
+    "Stops": "Uttara Moylar Mor, Uttara Metro rail Center, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R13",
+    "Schedule": "Shuttle",
+    "Route Name": "Uttara Moylar Mor <> Uttara Metro rail Center<> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "12:00 PM",
+    "Stops": "Uttara Moylar Mor, Uttara Metro rail Center, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R13",
+    "Schedule": "Shuttle",
+    "Route Name": "Uttara Moylar Mor <> Uttara Metro rail Center<> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "11:00 AM",
+    "Stops": "Uttara Moylar Mor, Uttara Metro rail Center, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "R13",
+    "Schedule": "Shuttle",
+    "Route Name": "Uttara Moylar Mor <> Uttara Metro rail Center<> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "4:20 PM",
+    "Stops": "Uttara Moylar Mor, Uttara Metro rail Center, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F1",
+    "Schedule": "Friday",
+    "Route Name": "Dhanmondi <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:30 AM",
+    "Stops": "Dhanmondi Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Mirpur Konabari, Eastern Housing Rup Nogor, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F1",
+    "Schedule": "Friday",
+    "Route Name": "Dhanmondi <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "2:20 PM",
+    "Stops": "Dhanmondi Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Mirpur Konabari, Eastern Housing Rup Nogor, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F1",
+    "Schedule": "Friday",
+    "Route Name": "Dhanmondi <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:30 PM",
+    "Stops": "Dhanmondi Sobhanbag, Shyamoli Square, Technical Mor, Majar Road Gabtoli, Mirpur Konabari, Eastern Housing Rup Nogor, Birulia Bus Stand, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F2",
+    "Schedule": "Friday",
+    "Route Name": "Tongi College Gate <> Uttara <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:30 AM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F2",
+    "Schedule": "Friday",
+    "Route Name": "Tongi College Gate <> Uttara <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "2:20 PM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F2",
+    "Schedule": "Friday",
+    "Route Name": "Tongi College Gate <> Uttara <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:30 PM",
+    "Stops": "Tongi College Gate Bus Stand, Kamar Para, Dhour, Birulia, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F3",
+    "Schedule": "Friday",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center <>  DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:30 AM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F3",
+    "Schedule": "Friday",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center <>  DSC",
+    "Trip Direction": "From DSC",
+    "Time": "2:20 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F3",
+    "Schedule": "Friday",
+    "Route Name": "Uttara - Rajlokkhi <>Uttara Metro rail Center <>  DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:30 PM",
+    "Stops": "Uttara Rajlokkhi, House building, Grand Zamzam Tower, Uttara Metro rail Center, Diyabari Bridge, Beribadh, Birulia, Khagan, Daffodil Smart City",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F4",
+    "Schedule": "Friday",
+    "Route Name": "Savar  <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:30 AM",
+    "Stops": "Savar, Nabinagar, C&B, DSC",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F4",
+    "Schedule": "Friday",
+    "Route Name": "Savar  <> Nabinagar <> C&B <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:30 PM",
+    "Stops": "Savar, Nabinagar, C&B, DSC",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F5",
+    "Schedule": "Friday",
+    "Route Name": "Mirpur-10 <> Sony Cinema Hall <> DSC",
+    "Trip Direction": "To DSC",
+    "Time": "7:30 AM",
+    "Stops": "Mirpur-10, Sony Cinema Hall, DSC",
+    "Note": "",
+    "Route Map": ""
+  },
+  {
+    "Route": "F5",
+    "Schedule": "Friday",
+    "Route Name": "Mirpur-10 <> Sony Cinema Hall <> DSC",
+    "Trip Direction": "From DSC",
+    "Time": "6:30 PM",
+    "Stops": "Mirpur-10, Sony Cinema Hall, DSC",
+    "Note": "",
+    "Route Map": ""
+  }
+]
